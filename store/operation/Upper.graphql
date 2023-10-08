@@ -1,0 +1,7 @@
+query MyQuery($equals: Int = 10) {
+  todo_findFirstTodo(where: {id: {equals: $equals}}) {
+    id
+    title
+    completed
+  }
+}

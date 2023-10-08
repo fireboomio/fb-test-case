@@ -1,0 +1,7 @@
+query MyQuery($skip: Int = 0, $take: Int = 10) {
+  todo_findManyTodo(skip: $skip, take: $take) {
+    id
+    completed
+    title
+  }
+}

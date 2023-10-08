@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "title": "",
+  "remark": "",
+  "createTime": "2023-10-08T13:50:59.599143+08:00",
+  "updateTime": "2023-10-08T13:52:59.881464+08:00",
+  "deleteTime": "",
+  "path": "proxy/hello",
+  "engine": 2,
+  "hooksConfiguration": null,
+  "configCustomized": false,
+  "cacheConfig": null,
+  "liveQueryConfig": null,
+  "authenticationConfig": null
+}

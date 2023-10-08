@@ -1,0 +1,19 @@
+{
+  "cacheConfig": {
+    "enabled": false,
+    "maxAge": 120,
+    "public": false,
+    "staleWhileRevalidate": 30
+  },
+  "liveQueryConfig": {
+    "enabled": false,
+    "pollingIntervalSeconds": 10
+  },
+  "authenticationConfigs": null,
+  "apiAuthenticationHooks": null,
+  "globalHttpTransportHooks": {
+    "onOriginRequest": true,
+    "onOriginResponse": true,
+    "beforeOriginRequest": true
+  }
+}

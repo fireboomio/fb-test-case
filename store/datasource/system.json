@@ -1,0 +1,16 @@
+{
+  "name": "system",
+  "enabled": true,
+  "createTime": "2023-10-08T10:48:34.267181+08:00",
+  "updateTime": "",
+  "deleteTime": "",
+  "cacheEnabled": false,
+  "kind": 1,
+  "customRest": {
+    "oasFilepath": "system.json",
+    "baseUrl": "http://localhost:9123/api",
+    "headers": null
+  },
+  "customGraphql": null,
+  "customDatabase": null
+}
